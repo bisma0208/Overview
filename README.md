@@ -8,8 +8,7 @@ I am a versatilist and easily adapt to different hats ( Web Developer 🌐, Web-
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-  
+
 
 ### 🔨 Languages and Tools:
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
@@ -29,13 +28,5 @@ I am a versatilist and easily adapt to different hats ( Web Developer 🌐, Web-
 <br>
 
 
-### 📊 Github Stats
-<a href='https://github.com/bisma0208/github-stats-transparent'>
 
-![Stats Overview](https://raw.githubusercontent.com/bisma0208/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/bisma0208/github-stats-transparent/output/generated/languages.svg)
-
-</a>
-
-<br>
 
